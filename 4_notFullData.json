@@ -1,0 +1,6 @@
+[
+   { sideAB: " ", sideBC: "2", sideCA: "3"  }
+  ,{ sideAB: "1", sideBC: " ", sideCA: "3"  }
+  ,{ sideAB: "1", sideBC: "2", sideCA: " "  }
+  
+]

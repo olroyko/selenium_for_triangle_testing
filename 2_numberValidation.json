@@ -1,0 +1,39 @@
+[
+   { sideAB: "0", sideBC: "0", sideCA: "0"  }
+  ,{ sideAB: "Ю", sideBC: "Ю", sideCA: "Ю"  }
+  ,{ sideAB: "n", sideBC: "n", sideCA: "n"  }
+  ,{ sideAB: ",", sideBC: ",", sideCA: ","  }
+  ,{ sideAB: ".", sideBC: ".", sideCA: "."  }
+  ,{ sideAB: "/", sideBC: "/", sideCA: "/"  }
+  ,{ sideAB: ";", sideBC: ";", sideCA: ";"  }
+  ,{ sideAB: "'", sideBC: "'", sideCA: "'"  }
+  ,{ sideAB: "[", sideBC: "[", sideCA: "["  }
+  ,{ sideAB: "]", sideBC: "]", sideCA: "]"  }
+  // ,{ sideAB: "\", sideBC: "\", sideCA: "\" } Эти значения добавлены напрямую в тест
+  ,{ sideAB: "=", sideBC: "=", sideCA: "="  }
+  ,{ sideAB: "-", sideBC: "-", sideCA: "-"  }
+  ,{ sideAB: "<", sideBC: "<", sideCA: "<"  }
+  ,{ sideAB: ">", sideBC: ">", sideCA: ">"  }
+  ,{ sideAB: "?", sideBC: "?", sideCA: "?"  }
+  ,{ sideAB: ":", sideBC: ":", sideCA: ":"  }
+  // ,{ sideAB: """, sideBC: """, sideCA: """  } Эти значения добавлены напрямую в тест
+  ,{ sideAB: "{", sideBC: "{", sideCA: "{"  }
+  ,{ sideAB: "}", sideBC: "}", sideCA: "}"  }
+  ,{ sideAB: "|", sideBC: "|", sideCA: "|"  }
+  ,{ sideAB: "_", sideBC: "_", sideCA: "_"  }
+  ,{ sideAB: "!", sideBC: "!", sideCA: "!"  }
+  ,{ sideAB: "@", sideBC: "@", sideCA: "@"  }
+  ,{ sideAB: "#", sideBC: "#", sideCA: "#"  }
+  ,{ sideAB: "$", sideBC: "$", sideCA: "$"  }
+  ,{ sideAB: "%", sideBC: "%", sideCA: "%"  }
+  ,{ sideAB: "^", sideBC: "^", sideCA: "^"  }
+  ,{ sideAB: "&", sideBC: "&", sideCA: "&"  }
+  ,{ sideAB: "*", sideBC: "*", sideCA: "*"  }
+  ,{ sideAB: "(", sideBC: "(", sideCA: "("  }
+  ,{ sideAB: ")", sideBC: ")", sideCA: ")"  }
+  ,{ sideAB: "`", sideBC: "`", sideCA: "`"  }
+  ,{ sideAB: "~", sideBC: "~", sideCA: "~"  }
+  ,{ sideAB: " ", sideBC: " ", sideCA: " "  }
+  ,{ sideAB: "*", sideBC: "*", sideCA: "*"  }
+  ,{ sideAB: "*", sideBC: "*", sideCA: "*"  }
+]

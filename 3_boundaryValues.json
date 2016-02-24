@@ -1,0 +1,10 @@
+[
+   { sideAB: "1", sideBC: "2", sideCA: "2"  }
+  ,{ sideAB: "2", sideBC: "1", sideCA: "2"  }
+  ,{ sideAB: "2", sideBC: "2", sideCA: "1"  }
+  ,{ sideAB: "1", sideBC: "1", sideCA: "1"  }  
+  ,{ sideAB: "9", sideBC: "7", sideCA: "8"  }
+  ,{ sideAB: "7", sideBC: "9", sideCA: "8"  }
+  ,{ sideAB: "7", sideBC: "8", sideCA: "9"  }
+  ,{ sideAB: "9", sideBC: "9", sideCA: "9"  }
+]

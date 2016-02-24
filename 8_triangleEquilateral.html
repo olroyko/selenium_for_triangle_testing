@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head profile="http://selenium-ide.openqa.org/profiles/test-case">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="selenium.base" href="http://localhost:9000/" />
+<title>triangleDDT</title>
+</head>
+<body>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">triangleDDT</td></tr>
+</thead><tbody>
+<!--Following tests should be passed-->
+<tr>
+	<td>forJson</td>
+	<td>file://C:/Users/admin/Desktop/triangle_selenium/DataDrivenTesting/8_triangleEquilateral.json</td>
+	<td></td>
+</tr>
+<tr>
+	<td>open</td>
+	<td>/</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=sideAB</td>
+	<td>${sideAB}</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=sideBC</td>
+	<td>${sideBC}</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=sideCA</td>
+	<td>${sideCA}</td>
+</tr>
+<tr>
+	<td>pause</td>
+	<td>500</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=btnsubmitid</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>id=message</td>
+	<td>Equilateral Triangle</td>
+</tr>
+<tr>
+	<td>endForJson</td>
+	<td></td>
+	<td></td>
+</tr>
+</tbody></table>
+</body>
+</html>
