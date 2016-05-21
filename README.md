@@ -1,4 +1,4 @@
-# selenium_for_triangle_testing
+# Selenium IDE tests 
 Test suite for triangle testing
 #How to use:
 1. You should have Selenium IDE + SelBlocks.
